@@ -15,7 +15,7 @@
   
   Potentiometer changes an octave.
   
-  Valves 1, 2 and 3 are decresing a notes (like on a trumpet).
+  Valves 1, 2 and 3 are decreasing a notes (like on a trumpet).
   
   Valves up1, up2 and up3 are increasing a notes.
   
